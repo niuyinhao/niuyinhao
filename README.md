@@ -1,5 +1,5 @@
 ### Hi 👋
-
+<div align="center">
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
@@ -51,7 +51,7 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
-
+</div>
 
 <!--
 **niuyinhao/niuyinhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
